@@ -1,0 +1,23 @@
+.product__box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+.product__title{
+    color: #5454f3;
+    font-weight: 500;
+}
+.product__img{
+    margin: 0 3rem;
+}
+.product__btn{
+    background: #fac25a;
+    padding: 3px 3rem;
+    border: 1px solid rgb(102, 100, 100);
+    border-radius: 5px;
+    cursor: pointer;
+}
